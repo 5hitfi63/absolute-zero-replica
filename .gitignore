@@ -1,2 +1,5 @@
 *.pyc
 *logs
+*dist
+*build
+*.spec
